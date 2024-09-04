@@ -1,0 +1,15 @@
+abstract: '<p>Code used for the Master''s thesis &quot;Parties Apart: Investigating
+  Differences and Changes in Lifestyle Interests between Democratic and Republican
+  Users on Reddit&quot;</p>'
+authors:
+- family-names: "Prun\u010D"
+  given-names: Roman Lukas
+  orcid: 0000-0002-2062-7148
+cff-version: 1.2.0
+date-released: '2024'
+doi: 10.5281/zenodo.13679870
+license:
+- cc-by-4.0
+title: 'Luuka16/Master-Thesis-CSS: Code and plots used for the Master''s thesis "Parties
+  Apart: Investigating Differences and Changes in Lifestyle Interests between Democratic
+  and Republican Users on Reddit"'
